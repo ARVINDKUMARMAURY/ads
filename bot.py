@@ -7,8 +7,8 @@ import urllib.parse
 import uuid
 
 # ================= CONFIGURATION =================
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"  # Yahan apna BotFather token daalein
-ADMIN_ID = 123456789                   # Apna Telegram User ID daalein
+BOT_TOKEN = "8748128952:AAHLm6DrtbolX5K9eVFyWS5U4GgmdvJBYOU"  # Yahan apna BotFather token daalein
+ADMIN_ID = 8263530800                   # Apna Telegram User ID daalein
 
 # ShrinkMe.io API Credentials (jo aapne provide ki hain)
 SHRINKME_API_TOKEN = "d4873836d6d609b9ddf431bb52dbece0aa0891c5"
